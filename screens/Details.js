@@ -1,7 +1,9 @@
 import { Text } from "react-native"
 
-export const Details = () => {
+const Details = () => {
   return (
     <Text>Details</Text>
   )
 }
+
+export default Details
